@@ -1,0 +1,45 @@
+﻿@model List<WebAPI.Model.Produto>
+
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Add Produto</a>
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Estoque</th>
+            <th>ID Categoria</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produto in Model)
+        {
+            <tr>
+                <td>@produto.Id</td>
+                <td>@produto.Nome</td>
+                <td>@produto.Preco</td>
+                <td>@produto.QntEstoque</td>
+                <td>@produto.FK_CategoriaId</td>
+                <th>
+                    <a class="btn btn-primary btn-sm" asp-action="Edit" 
+                    asp-route-id="@produto.Id">Editar</a>
+                    <a class="btn btn-info btn-sm" asp-action="Details"
+                       asp-route-id="@produto.Id">Detalhes</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete"
+                       asp-route-id="@produto.Id">Apagar</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>

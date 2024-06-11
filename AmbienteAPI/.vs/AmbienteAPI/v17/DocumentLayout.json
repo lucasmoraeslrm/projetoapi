@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|c:\\users\\lucas\\desktop\\nova pasta (4)\\ambienteapi\\ambienteapi\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|solutionrelative:ambienteapi\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|c:\\users\\lucas\\desktop\\nova pasta (4)\\ambienteapi\\ambienteapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|solutionrelative:ambienteapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|c:\\users\\lucas\\desktop\\nova pasta (4)\\ambienteapi\\ambienteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|solutionrelative:ambienteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|c:\\users\\lucas\\desktop\\nova pasta (4)\\ambienteapi\\ambienteapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|solutionrelative:ambienteapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|c:\\users\\lucas\\desktop\\nova pasta (4)\\ambienteapi\\ambienteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|solutionrelative:ambienteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|c:\\users\\lucas\\desktop\\nova pasta (4)\\ambienteapi\\ambienteapi\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|solutionrelative:ambienteapi\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|c:\\users\\lucas\\desktop\\nova pasta (4)\\ambienteapi\\ambienteapi\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA6E86C8-F224-4801-9B92-FB691BD93C9D}|AmbienteAPI\\AmbienteAPI.csproj|solutionrelative:ambienteapi\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AmbienteAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AmbienteAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T22:55:43.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AmbienteAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Program.cs",
+              "RelativeToolTip": "AmbienteAPI\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:01:05.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AmbienteAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\appsettings.json",
+              "RelativeToolTip": "AmbienteAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T22:01:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Views\\Categoria\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AmbienteAPI\\Views\\Categoria\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Views\\Categoria\\Delete.cshtml",
+              "RelativeToolTip": "AmbienteAPI\\Views\\Categoria\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T21:09:27.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "AmbienteAPI\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "AmbienteAPI\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:06:28.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Views\\Categoria\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AmbienteAPI\\Views\\Categoria\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Views\\Categoria\\Edit.cshtml",
+              "RelativeToolTip": "AmbienteAPI\\Views\\Categoria\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T20:49:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Service\\ApiService.cs",
+              "RelativeDocumentMoniker": "AmbienteAPI\\Service\\ApiService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\Nova pasta (4)\\AmbienteAPI\\AmbienteAPI\\Service\\ApiService.cs",
+              "RelativeToolTip": "AmbienteAPI\\Service\\ApiService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:08:45.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

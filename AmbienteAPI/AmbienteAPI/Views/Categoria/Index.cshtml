@@ -1,0 +1,40 @@
+﻿@model List<WebAPI.Model.Categoria>
+
+@{
+    ViewData["Title"] = "Lista de Categoria";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Add Categoria</a>
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var categoria in Model)
+        {
+            <tr>
+                <td>@categoria.CategoriasId</td>
+                <td>@categoria.Nome</td>
+
+                <th>
+                    <a class="btn btn-primary btn-sm" asp-action="Edit"
+                       asp-route-id="@categoria.CategoriasId">Editar</a>
+                    <a class="btn btn-info btn-sm" asp-action="Details"
+                       asp-route-id="@categoria.CategoriasId">Detalhes</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete"
+                       asp-route-id="@categoria.CategoriasId">Apagar</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>
